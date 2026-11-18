@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.pytest_cache/
+out/
+*.mp3
+ledger.json
+.env
+.env.*
