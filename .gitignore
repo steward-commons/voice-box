@@ -8,3 +8,7 @@ out/
 ledger.json
 .env
 .env.*
+
+# Working copies — never publish or upload
+*.bak*
+*.bak-*
